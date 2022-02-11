@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am an undergraduate Informatics Engineering Student at the University of Brawijaya.
+Nice to meet you!
